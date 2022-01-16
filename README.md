@@ -9,7 +9,9 @@ Aim
 
 2) To predict reserve price based on CPM. Reserve pricing algorithm was modelled by keeping CPM as a target variable. Once the reserve price are predicted we know that any advertisers will be willing to go (15-25)% above the reserve price in order to secure a slot.
 
-![2](bids.jpg)
+<p align="center">
+   <img src="bids.jpg">
+</p>
 
 ## Models
 
